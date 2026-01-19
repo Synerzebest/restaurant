@@ -27,7 +27,7 @@ const HoursSection = () => {
         >
           <Clock className="h-5 w-5 text-yellow-800" />
           <p className="text-sm tracking-[0.3em] uppercase text-yellow-800">
-            Opening Hours
+            Heures d&apos;ouverture
           </p>
         </motion.div>
 
